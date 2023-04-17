@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1658995204 source:c:\users\pc\onedrive\documents\langage c\projet\bbd\exam.c
+	"exam.h"
+
+1658995472 c:\users\pc\onedrive\documents\langage c\projet\bbd\exam.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+	<dirent.h>
+
+1658995216 source:c:\users\pc\onedrive\documents\langage c\projet\bbd\main.c
+	"exam.h"
+
+1658829501 source:c:\users\pc\onedrive\documents\langage c\projet\bbd(pourri)\main.c
+	"exam.h"
+
+1658829501 c:\users\pc\onedrive\documents\langage c\projet\bbd(pourri)\exam.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+	<dirent.h>
+
+1658833708 source:c:\users\pc\onedrive\documents\langage c\projet\bbd(pourri)\exam.c
+	"exam.h"
+
+1658995204 source:c:\users\pc\documents\l1\langage c\projet\bdd\exam.c
+	"exam.h"
+
+1658995472 c:\users\pc\documents\l1\langage c\projet\bdd\exam.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+	<dirent.h>
+
+1658995216 source:c:\users\pc\documents\l1\langage c\projet\bdd\main.c
+	"exam.h"
+
